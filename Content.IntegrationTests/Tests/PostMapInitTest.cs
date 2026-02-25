@@ -92,6 +92,7 @@ namespace Content.IntegrationTests.Tests
             "ArenaMedieval", //DeltaV
             "Asterisk", // DeltaV
             "Byoin", // DeltaV
+            "Cave", // DeltaV
             "Chibi", // DeltaV
             "Division", // DeltaV
             "Edge", // DeltaV

@@ -1,0 +1,20 @@
+- type: gameMap
+  id: Cave
+  mapName: 'Cave'
+  mapPath: /Maps/cave.yml
+  minPlayers: 20
+  maxPlayers: 70
+  stations:
+    PebbleStation:
+      stationProto: StandardNanotrasenStation
+      components:
+        - type: StationNameSetup
+          mapNameTemplate: '{0} Cave Station {1}'
+          nameGenerator:
+            !type:NanotrasenNameGenerator
+            prefixCreator: 'DV'
+        - type: StationJobs
+          availableJobs:
+          #command
+            Captain: [ 1, 1 ]
+            StationAi: [ 1, 1 ]
