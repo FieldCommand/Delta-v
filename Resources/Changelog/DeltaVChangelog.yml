@@ -1,13 +1,4 @@
 ﻿Entries:
-- author: kotobdev
-  changes:
-  - message: Cortical Borers have been ported from Monolith, check Minor Antagonists
-      in the guidebook for more information. Remember to not listen to the voices
-      in your head.
-    type: Add
-  id: 1752
-  time: '2025-10-16T05:11:24.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4466
 - author: SirWarock
   changes:
   - message: Most Cryochemicals now evenly heal 7 damage of their respective type!
@@ -4436,4 +4427,11 @@
   id: 2252
   time: '2026-04-26T13:28:59.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5731
+- author: BigMaxPorter
+  changes:
+  - message: Increased Rad Protection of Reinforced Walls and High Security Airlocks
+    type: Tweak
+  id: 2253
+  time: '2026-04-28T05:10:11.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5750
 Order: 1
