@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: TehFlaminTaco
-  changes:
-  - message: Fractured Form bodies no-longer get stuck when left too long
-    type: Fix
-  id: 1754
-  time: '2025-10-16T05:54:33.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4530
 - author: SirWarock
   changes:
   - message: Buckled Patients do not stand up after recovering from critical state!
@@ -4425,4 +4418,12 @@
   id: 2254
   time: '2026-04-30T08:30:33.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5685
+- author: SirWarock
+  changes:
+  - message: If properly charged, psionic Regeneration now cures the zombie infection
+      and heals eye damage!
+    type: Tweak
+  id: 2255
+  time: '2026-04-30T16:24:42.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5690
 Order: 1
