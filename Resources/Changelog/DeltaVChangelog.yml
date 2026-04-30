@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Stop-Signs
-  changes:
-  - message: Added the Rhino Industrial hardsuit, a unique suit for logistics officers.
-    type: Add
-  id: 1756
-  time: '2025-10-16T13:47:45.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/3911
 - author: Vapetastic-Gaming
   changes:
   - message: SUBMARINE RETURNS TO DELTA-V
@@ -4427,4 +4420,11 @@
   id: 2256
   time: '2026-04-30T17:00:33.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5693
+- author: Sugarcane
+  changes:
+  - message: Fixed the chronic pain trait popups being visible to every player nearby.
+    type: Fix
+  id: 2257
+  time: '2026-04-30T17:14:03.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5746
 Order: 1
