@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: SirWarock
-  changes:
-  - message: Buckled Patients do not stand up after recovering from critical state!
-    type: Tweak
-  id: 1755
-  time: '2025-10-16T09:04:22.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4316
 - author: Stop-Signs
   changes:
   - message: Added the Rhino Industrial hardsuit, a unique suit for logistics officers.
@@ -4426,4 +4419,12 @@
   id: 2255
   time: '2026-04-30T16:24:42.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5690
+- author: rebe83
+  changes:
+  - message: Chief Engineers are now able to access the AI Upload Console to properly
+      assist in debugging.
+    type: Tweak
+  id: 2256
+  time: '2026-04-30T17:00:33.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5693
 Order: 1
