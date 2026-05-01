@@ -978,4 +978,11 @@
   id: 113
   time: '2026-04-19T18:29:34.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5686
+- author: Velcroboy
+  changes:
+  - message: 'Arena: R.I.P. RPG'
+    type: Remove
+  id: 114
+  time: '2026-05-01T13:40:06.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5726
 Order: 3
