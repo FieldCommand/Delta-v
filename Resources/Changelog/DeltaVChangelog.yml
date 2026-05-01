@@ -1,13 +1,6 @@
 ﻿Entries:
 - author: AeraAuling
   changes:
-  - message: Archivists now have a place to store their stuff.
-    type: Add
-  id: 1758
-  time: '2025-10-21T02:23:48.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4540
-- author: AeraAuling
-  changes:
   - message: Harbingers have increased the budget for accursed scythe fabrication.
       It should be a bit more effective now.
     type: Tweak
@@ -4428,4 +4421,11 @@
   id: 2258
   time: '2026-05-01T16:39:47.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5606
+- author: sheepism
+  changes:
+  - message: Some improvised gun parts now have slightly more accurate descriptions.
+    type: Tweak
+  id: 2259
+  time: '2026-05-01T18:00:31.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5730
 Order: 1
