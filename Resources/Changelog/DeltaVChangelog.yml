@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Vapetastic-Gaming
-  changes:
-  - message: SUBMARINE RETURNS TO DELTA-V
-    type: Add
-  id: 1757
-  time: '2025-10-18T16:26:03.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4497
 - author: AeraAuling
   changes:
   - message: Archivists now have a place to store their stuff.
@@ -4427,4 +4420,12 @@
   id: 2257
   time: '2026-04-30T17:14:03.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5746
+- author: rebe83
+  changes:
+  - message: Chitinids now must use hands to pull things like everyone else (except
+      lizards).
+    type: Tweak
+  id: 2258
+  time: '2026-05-01T16:39:47.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5606
 Order: 1
